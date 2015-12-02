@@ -10,6 +10,19 @@ h1 {
     background-color: #009;
 }
 
+
+h2 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+	border-style: groove;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: #ffb359;
+}
+
 p {
     letter-spacing: 0.5em;
     word-spacing: 2em;
