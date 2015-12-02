@@ -1,9 +1,18 @@
 body {
+	font-family: "Times New Roman", arial, helvetica, sans-serif;
     font-size: 14px;
     color: navy;
 }
 
 h1 {
+	font-size: 2em
     color: #ffff93;
     background-color: #009;
+}
+
+p {
+    letter-spacing: 0.5em;
+    word-spacing: 2em;
+    line-height: 1.5;
+    text-align: center;
 }
