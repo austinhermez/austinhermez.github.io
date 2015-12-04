@@ -22,7 +22,7 @@ h1 {
     font-style: italic;
     text-align: center;
     letter-spacing: 0.5em;
-    border-bottom-style: groove;
+    border-bottom-style: solid;
     border-bottom-width: 0.5em;
     border-bottom-color: #d8ae60;
 }
