@@ -1,7 +1,7 @@
 body {
     font-family: arial, helvetica, sans-serif;
     font-size: 14px;
-    color: black;
+    color: #f0d8ac;
     background-color: #a5c1cc;
     margin: 20px;
     padding: 0;
@@ -12,7 +12,7 @@ p {
 }
 
 h1 {
-    color: #f0d8ac;
+    color: #a9908c;
     background-color: #f7f1cf;
     font-size: 2em;
     margin: 0;
@@ -43,7 +43,7 @@ h3 {
 img {
     border-style: inset;
     border-width: 2px;
-    border-color: #a9908c;
+    border-color: #f0d8ac;
 }
 
 a {
@@ -56,10 +56,10 @@ strong {
 }
 
 li {
-    color: #a9908c;
+    color: #f0d8ac;
     font-style: italic;
 }
 
 table {
-    background-color: #a9908c;
+    background-color: #f0d8ac;
 }
