@@ -15,13 +15,14 @@ h1 {
     color: #a9908c;
     background-color: #f7f1cf;
     font-size: 2em;
+	border-style: inset;
     margin: 0;
     margin-bottom: 7px;
     padding: 4px;
     font-style: italic;
     text-align: center;
     letter-spacing: 0.5em;
-    border-bottom-style: solid;
+    border-bottom-style: outset;
     border-bottom-width: 0.5em;
     border-bottom-color: #d8ae60;
 }
