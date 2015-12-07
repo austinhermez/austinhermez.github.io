@@ -64,3 +64,14 @@ li {
 table {
     background-color: #f0d8ac;
 }
+
+#maincontent {
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+.centerMe {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
