@@ -42,7 +42,6 @@ h3 {
 }
 
 img {
-    border-style: inset;
     border-width: 2px;
     border-color: #f0d8ac;
 }
@@ -70,8 +69,9 @@ table {
 	margin-right: 75px;
 }
 
-.game {
-	display: block;
+.banner {
+	display:block;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 20px
 }
