@@ -56,7 +56,7 @@ strong {
 }
 
 li {
-    color: #f0d8ac;
+    color: #d8ae60;
     font-style: italic;
 }
 
@@ -65,8 +65,9 @@ table {
 }
 
 #maincontent {
-	margin-left: 75px;
-	margin-right: 75px;
+	margin-left: 150px;
+	margin-right: 150px;
+	padding-left: 20px;
 }
 
 .banner {
@@ -83,4 +84,31 @@ table {
 	margin-left: auto;
 	margin-right: auto;
 	padding: 20
+}
+
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #f7f1cf;
+	width: 150px;
+	position: fixed;
+}
+
+nav ul li a {
+	display: block;
+	color: #d8ae60;
+	padding-bottom: 8;
+	padding-top: 8;
+	padding-left: 16px;
+}
+
+nav ul li a:hover{
+	background-color: #f0d8ac;
+	color: #a9908c;
+}
+
+.active {
+	background-color: #d8ae60;
+	color: #a5c1cc;
 }
