@@ -17,7 +17,7 @@ h1 {
     font-size: 2em;
 	border-style: inset;
     margin: 0;
-    margin-bottom: 7px;
+    margin-bottom: 25%;
     padding: 4px;
     font-style: italic;
     text-align: center;
@@ -111,4 +111,15 @@ nav ul li a:hover{
 .active {
 	background-color: #d8ae60;
 	color: #a5c1cc;
+}
+
+@media screen and (max-width: 600px) {
+	nav {
+		display: none;
+	}
+	#maincontent {
+		margin-left: 5%;
+		margin-right: 5%;
+		padding-left: 20px;
+	}
 }
