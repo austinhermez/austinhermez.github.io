@@ -126,6 +126,7 @@ img {
 		background-color: #f7f1cf;
 		width: 100%;
 		position: fixed;
+		height: auto;
 	}
 
 	nav ul li a {
